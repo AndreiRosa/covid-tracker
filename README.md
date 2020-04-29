@@ -18,6 +18,12 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 - [API](https://covid19.mathdro.id/api)
 <br>
 
+## :zap: Website
+
+Este projeto está hospedado no [link](https://casoscovid.netlify.app/).
+
+<br>
+
 💬 Fale comigo
 ------------------
 Entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/andreifrosa).
